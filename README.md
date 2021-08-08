@@ -2,7 +2,7 @@
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  !מסלול חופשי ללימוד עצמי במדעי המחשב
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-# Contents
+# תוכן עניינים
 
 - [Summary](#summary)
 - [Community](#community)
@@ -21,7 +21,7 @@
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
-# Summary
+# תקציר
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
